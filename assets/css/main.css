@@ -2109,3 +2109,7 @@
     background-attachment: fixed, fixed;
     background-position: top left, center center;
   }
+
+.from-left, .from-right {
+  padding: 10px;
+}
